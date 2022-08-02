@@ -3,6 +3,7 @@ SuperApp Klinik Periksa.id
 ## Installation
 Dependencies
 - Windows 7 or higher
+- MacOS 10 or higher
 
 Download executable from [Releases](https://github.com/Periksa-Solusi-Indonesia/SuperAPP-Periksa.id/releases)
 
